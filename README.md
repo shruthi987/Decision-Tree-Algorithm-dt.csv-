@@ -13,3 +13,4 @@ we have 3 formulas
 >fit into algorithm
 >Accuracy
 We are using dt.csv data sample
+Rain Forest Algorithm- collection of decision trees
